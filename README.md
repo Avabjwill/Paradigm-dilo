@@ -8,7 +8,7 @@ Table of contents
 
 <a name="servsetup"></a>
 ## Setting up the server
-dilo is a generic server that can serve a REST-based API using Paradigm API Documentation to understand the type of data and the operations supported by the API. Getting a server running in dilo is straightforward. Simply, create a script that plugs the API Documentation, the database along with a few other variables and start a dilo app. An example of this is given below. In the following subsections, we will address each part of the script and show how to create your own API using your API Documentation.
+Dilo is a generic server that can serve a REST-based API using Paradigm API Documentation to understand the type of data and the operations supported by the API. Getting a server can be intimidating but with dilo we have simpliefied the process. Simply, create a script that plugs in the API Documentation, the database for storing all important data, a few other variables and run a dilo application. An example of this is given below. In the following subsections, we will address each part of the script and show how to create your own API using your API Documentation.
 
 ```python
 """Demo script for setting up an API using dilo."""
