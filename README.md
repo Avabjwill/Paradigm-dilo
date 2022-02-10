@@ -57,4 +57,4 @@ We will now break down each of these steps and understand what they do. Let's be
 ## The APIDocumentation
 Much of dilo is built around the Paradigm API Documentation. The API Doc is defined in the Paradigm spec [here].
 The API Doc is the entity that tells dilo the way to set the server up, the endpoints that must be created, the data needs to be served, the operations supported by the data and so on.
-dilo uses Python classes to create and define API Docs. A description of these classes and how they are designed can be found in the [Design]section.
+Dilo uses Python classes to create and define API Docs. A description of these classes and how they are designed can be found in the [Design]section.
